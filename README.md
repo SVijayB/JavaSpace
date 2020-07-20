@@ -109,7 +109,7 @@ Programs used for searching and sorting given elements.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/project.java">Project.java</a>                  | A school project on university counselling
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/RandomNo.java">RandomNo.java</a>                 | Prints N random numbers within a given range
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/resort.java">Resort.java</a>                   | A Simple program to understand concepts of OOP in Java.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/append.java">Append.java</a>                   | Program to append strings to a series. Made it to easily create lists on python.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/append.java">Append.java</a>                   | Helps in creating lists in python.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/UrlConcat.java">UrlConcat.java</a>                | Program to create a link tag for HTML and saving output to clipboard
 </pre>
 
