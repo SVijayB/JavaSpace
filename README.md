@@ -17,8 +17,8 @@
 - [Data Conversion](#Data-Conversion)
 - [Data Structures](#Data-Structures)
 - [Searching And Sorting Algorithms](#Searching-And-Sorting-Algorithms)
-- [HackerRank](#HackerRank)
 - [Miscellaneous](#Miscellaneous)
+- [HackerRank](#HackerRank)
 - [Contributing](#Contributing)
 - [License](#License)
 
@@ -48,6 +48,8 @@ Basics of Java are covered within these programs.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/tables.java">Tables.java</a>                   | Print Multiplication table.
 </pre>
 
+---
+
 ## Data Conversion
 Contains programs that revolve around various Number Systems.
 <pre>
@@ -57,6 +59,8 @@ Contains programs that revolve around various Number Systems.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Conversion/decitobinary.java">DeciToBinary.java</a>             | Decimal to Binary.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Conversion/decitooctal.java">DeciToOctal.java</a>              | Decimal to Octal.
 </pre>
+
+---
 
 ## Data Structures
 Programs Relating to the implementation of various Data Structures are present in this folder.
@@ -69,8 +73,9 @@ Programs Relating to the implementation of various Data Structures are present i
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Structures/stackpr1.java">Stackpr1.java</a>                 | Stack Implementation.
 • <a href="https://github.com/SVijayB/Java/blob/master/Data_Structures/Kruskal%E2%80%99s%20algorithm.java">Kruskal's algorithm.java</a>      | Kruskal's algorithm to find shortest path.
 • <a href="https://github.com/SVijayB/Java/blob/master/Data_Structures/Linear%20Probing.java">Linear Probing.java</a>           | Creating a Hash Table using Linear Probing method.
-
 </pre>
+
+---
 
 ## Searching And Sorting Algorithms
 Programs used for searching and sorting given elements.
@@ -80,6 +85,35 @@ Programs used for searching and sorting given elements.
 • <a href="https://github.com/SVijayB/Java/blob/master/Searching%20%26%20Sorting/Heap%20Sort.java">Heap Sort.java</a>                | Sorting entires using Heap Sort.
 • <a href="https://github.com/SVijayB/Java/blob/master/Searching%20%26%20Sorting/Merge%20Sort.java">Merge Sort.java</a>               | Sorting using Merge Sort.
 </pre>
+
+---
+
+## Miscellaneous
+
+<pre>
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/Binaryconcat.java">BinaryConcat.java</a>             | Decimal value of Binary concatenation of given number.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/Dungeon%20quest.java">DungeonQuest.java</a>             | A turn-based RPG text game.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/EvenPerfectSquare.java">EvenPerfectSquare.java</a>        | Checks if sum of numbers at even position is perfect square or not.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/FibonacciPrime.java">FibonacciPrime.java</a>           | Prints Prime Numbers in Fibonacci Series.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/GameOfLife.java">GameOfLife.java</a>               | A short choice based game.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/Game_of_Coordinates.java">GameOfCoordinates.java</a>        | A game to check if you can move to a point based on preset rules.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/Narcissisticno.java">NarcissticNo.java</a>             | Prints Narcisstic and Armstrong Numbers.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/PythagoreanPrimes.java">PythagoreanPrimes.java</a>        | Checks if given number is a Pythagorean Prime or not.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/RLD.java">RLD.java</a>                      | Checks if given number is Reverse Length Divisible or not.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/amicable_no.java">AmicableNo.java</a>               | Prints all the pairs of Amicable Numbers until N.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/decimal.java">Decimal.java</a>                  | Finds the sum of numbers before and after decimal point.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/encryption.java">Encryption.java</a>               | Encrypts and Decrypts Information Provided.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/flames.java">Flames.java</a>                   | A simulation of the game, flames.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/nonloop.java">NonLoop.java</a>                  | A simple game to understand recursion.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/permstring.java">Permstring.java</a>               | Prints permutations of a given String.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/project.java">Project.java</a>                  | A school project on university counselling
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/RandomNo.java">RandomNo.java</a>                 | Prints N random numbers within a given range
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/resort.java">Resort.java</a>                   | A Simple program to understand concepts of OOP in Java.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/append.java">Append.java</a>                   | Program to append strings to a series. Made it to easily create lists on python.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/UrlConcat.java">UrlConcat.java</a>                | Program to create a link tag for HTML and saving output to clipboard
+</pre>
+
+---
 
 ## HackerRank
 
@@ -108,30 +142,7 @@ Programs used for searching and sorting given elements.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/MigratoryBirds.java">MigratoryBirds.java</a>           | <a href="https://www.hackerrank.com/challenges/migratory-birds/problem">Problem Statement</a>
 </pre>
 
-## Miscellaneous
-
-<pre>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/Binaryconcat.java">BinaryConcat.java</a>             | Decimal value of Binary concatenation of given number.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/Dungeon%20quest.java">DungeonQuest.java</a>             | A turn-based RPG text game.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/EvenPerfectSquare.java">EvenPerfectSquare.java</a>        | Checks if sum of numbers at even position is perfect square or not.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/FibonacciPrime.java">FibonacciPrime.java</a>           | Prints Prime Numbers in Fibonacci Series.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/GameOfLife.java">GameOfLife.java</a>               | A short choice based game.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/Game_of_Coordinates.java">GameOfCoordinates.java</a>        | A game to check if you can move to a point based on preset rules.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/Narcissisticno.java">NarcissticNo.java</a>             | Prints Narcisstic and Armstrong Numbers.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/PythagoreanPrimes.java">PythagoreanPrimes.java</a>        | Checks if given number is a Pythagorean Prime or not.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/RLD.java">RLD.java</a>                      | Checks if given number is Reverse Length Divisible or not.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/amicable_no.java">AmicableNo.java</a>               | Prints all the pairs of Amicable Numbers until N.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/decimal.java">Decimal.java</a>                  | Finds the sum of numbers before and after decimal point.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/encryption.java">Encryption.java</a>               | Encrypts and Decrypts Information Provided.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/flames.java">Flames.java</a>                   | A simulation of the game, flames.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/nonloop.java">NonLoop.java</a>                  | A simple game to understand recursion.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/permstring.java">Permstring.java</a>               | Prints permutations of a given String.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/project.java">Project.java</a>                  | A school project on university counselling
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/RandomNo.java">RandomNo.java</a>                 | Prints N random numbers within a given range
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/resort.java">Resort.java</a>                   | A Simple program to understand concepts of OOP in Java.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/append.java">Append.java</a>                   | Program to append strings to a series. Made it to easily create lists on python.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/UrlConcat.java">UrlConcat.java</a>                | Program to create a link tag for HTML and saving output to clipboard
-</pre>
+---
 
 ## Contributing 
 
