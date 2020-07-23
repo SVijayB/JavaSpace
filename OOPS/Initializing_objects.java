@@ -5,18 +5,18 @@
     3) By constructor */
 
 // Referencing variables
-class Employee
+class Employee2
 {  
     int id;  
     String name;  
 }  
 
-class Main
+class case2
 {  
     public static void main(String args[])
     {  
-        Employee e1 = new Employee();  
-        Employee e2 = new Employee();  
+        Employee2 e1 = new Employee2();  
+        Employee2 e2 = new Employee2();  
     
         e1.id=101;  
         e1.name="Vijay";  

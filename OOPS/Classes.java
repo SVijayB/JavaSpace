@@ -20,7 +20,7 @@ class employee1
     String name = "Vijay";  
 }
 
-class Main
+class case1
 {  
     public static void main(String args[])
     {  
