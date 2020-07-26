@@ -94,6 +94,8 @@ Implementing Object Oriented Programming System(OOPs) in Java.
 <pre>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Classes.java">Classes.java</a>                  | Understanding classes in java.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Initializing_objects.java">Initializing_objects.java</a>     | Creating/initializing data using reference variables.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Static.java">Static.java</a>                   | Understanding uses of static variables.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Polymorphism.java">Polymorphism.java</a>             | Exploring Polymorphism in OOPS.
 </pre>
 
 ---
