@@ -1,3 +1,5 @@
+package OOPS;
+
 /* There are 3 ways to initialize object in Java.
 
     1) By reference variable

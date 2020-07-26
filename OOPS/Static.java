@@ -1,3 +1,5 @@
+package OOPS;
+
 class JavaExample
 {
     static int var1 = 77;
