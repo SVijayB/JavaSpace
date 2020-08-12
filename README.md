@@ -29,7 +29,6 @@
 Basics of Java are covered within these programs.
 <pre>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/GP.java">GP.java</a>                       | Calculates Grade Pay.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/IntCstEst.java">IntCstEst.java</a>                | International cost estimation.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/Pyramid.java">Pyramid.java</a>                  | Number Pyramid.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/average.java">Average.java</a>                  | Average of N numbers.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/cutoff.java">Cutoff.java</a>                   | Calculate PCM Cut-off.
