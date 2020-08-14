@@ -99,7 +99,8 @@ Implementing Object Oriented Programming System(OOPs) in Java.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Object.java">Object.java</a>                   | Objects in java.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Variables.java">Variables.java</a>                | Different types of variables in java.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/ArrayOfObjects.java">ArrayOfObjects.java</a>           | Creating an array of objects.
-
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Encapsulation/Encapsulation.java">Encapsulation.java</a>            | Encapsulation of data.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Encapsulation/Accessing.java">Accessing.java</a>                | Accessing private variables using public methods.
 </pre>
 
 ---
