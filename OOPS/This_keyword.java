@@ -23,5 +23,7 @@ public class This_keyword
     {
         String title = "Playing with C"; //local variable
         System.out.println(this.title);
-    }   
+    }
 }
+
+// NOTE : Cannot use this keyword in a static method. 
