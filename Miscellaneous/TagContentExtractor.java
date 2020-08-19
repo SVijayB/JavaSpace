@@ -1,4 +1,4 @@
-package Strings;
+package Miscellaneous;
 
 // Obtaining string between html tags. Eg : input -> <h1>Hello</h1> would give the output -> Hello
 import java.util.Scanner;
