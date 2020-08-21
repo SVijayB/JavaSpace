@@ -1,6 +1,6 @@
 package OOPS;
 
-class Book
+class Book2
 {
     public String title;
     public String author;
@@ -18,8 +18,8 @@ public class Constructors
 {
     public static void main(String args[])
     {
-        Book obj = new Book();
-        Book obj2 = new Book();
+        Book2 obj = new Book2();
+        Book2 obj2 = new Book2();
 
         // Initializing instance variable by approach 1
         obj.title = "Harry Potter";
