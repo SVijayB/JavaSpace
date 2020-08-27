@@ -21,8 +21,8 @@ public class Main
     public static void main(String args[])
     {
         String Choice = choice();
-        Sports sp = new Sports();
-        sp.details(Choice);
+        Object obj = Game_details(Choice);
+        ((Sports) obj).Display();
     }
 
     private static String choice() 
@@ -77,12 +77,46 @@ public class Main
         sc.close();
         return GameOfChoice;
     }
+
+    private static Sports Game_details(String name) 
+    {
+        if(name == "Chess")
+        {
+            String origin = "India";
+            String equipments[] = {"Chess board", "Chess coins"};
+            String players[] = {"Magnus Carlsen", "Viswanathan Anand"};
+            String playerNames[] = {"Norway", "India"};
+            Sports sport = new Sports(name, origin, equipments, players, playerNames, 2, 2, false, true);
+            return sport;
+        }
+		return null;
+    }
 }
 
 class Sports
 {
-    public void details(String game)
+    String Name, Origin, Equipments[], PlayersName[], PlayersOrigin[];
+    int NoOfPlayers, TimeDuration;
+    boolean SubGame, PlayerStatus;
+    
+    public Sports(String Name,String Origin,String Equipments[],String PlayersName[],String PlayersOrigin[],
+    int NoOfPlayers,int TimeDuration,boolean SubGame,boolean PlayerStatus) 
     {
-        System.out.println(game);
+        this.Name = Name;
+        this.Origin = Origin;
+        this.Equipments = Equipments;
+        this.PlayersName = PlayersName;
+        this.PlayersOrigin = PlayersOrigin;
+        this.NoOfPlayers = NoOfPlayers;
+        this.TimeDuration = TimeDuration;
+        this.SubGame = SubGame;
+        this.PlayerStatus = PlayerStatus;
+    }
+
+    public void Display() 
+    {
+        System.out.println("Name of the game : " + this.Name);
+        System.out.println("Country of origin : " + this.Origin);
+        System.out.println("Equipments required : ");
     }
 }
