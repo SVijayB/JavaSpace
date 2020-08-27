@@ -14,6 +14,7 @@ Take help from different keywords like super, this etc.
 
 package Miscellaneous;
 
+import java.sql.Time;
 import java.util.Scanner;
 
 public class Main 
@@ -115,8 +116,25 @@ class Sports
 
     public void Display() 
     {
+        System.out.println("==========================================================");
         System.out.println("Name of the game : " + this.Name);
         System.out.println("Country of origin : " + this.Origin);
         System.out.println("Equipments required : ");
+        for(int i=0;i<this.Equipments.length;i++)
+        {
+            System.out.println("\t" + (i+1) + ")" + this.Equipments[i]);
+        }
+        System.out.println("Number of players required to play : " + this.NoOfPlayers + " players");
+        System.out.println("Total time duration of each game : " + this.TimeDuration + " hours");
+        if(this.SubGame)
+        {
+            System.out.println("This sport has various models!");
+        }
+        System.out.println("Legendry Players In This Game : ");
+        for(int i=0;i<this.PlayersName.length;i++)
+        {
+            System.out.println("\t\t" + (i+1) + ")" + this.PlayersName[i] + " from " + this.PlayersOrigin[i]);
+        }
+        System.out.println("==========================================================");
     }
 }
