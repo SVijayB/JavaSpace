@@ -1,3 +1,5 @@
+package Miscellaneous;
+
 /*There are different types of sports. Some of the are indoors and some are outdoors. 
 Each has its own properties like, name of the sport, number of players required, time duration (if any), 
 equipment needed (like ball, bat), country of origin etc. In some games there are subtypes, 
@@ -11,12 +13,9 @@ Implement the above scenario using java. Use its different features like, class,
 instance variable hiding, method overloading, inheritance, method overriding etc. wherever needed. 
 Take help from different keywords like super, this etc.
 */
-
-package Miscellaneous;
-
 import java.util.Scanner;
 
-public class Main 
+public class SportsCatalogue 
 {
     public static void main(String args[])
     {
@@ -179,31 +178,31 @@ class Sports
     public void Display() 
     {
         System.out.println("\n\n==========================================================");
-        System.out.println("Name of the game : " + this.Name);
-        System.out.println("Country of origin : " + this.Origin);
-        System.out.println("Equipments required : ");
+        System.out.println("Name of the game : \n\t" + this.Name);
+        System.out.println("\nCountry of origin : \n\t" + this.Origin);
+        System.out.println("\nEquipments required : ");
         for(int i=0;i<this.Equipments.length;i++)
         {
             System.out.println("\t" + (i+1) + ") " + this.Equipments[i]);
         }
-        System.out.println("Number of players required to play : " + this.NoOfPlayers + " players");
-        System.out.println("Total time duration for each game : " + this.TimeDuration + " minutes");
+        System.out.println("\nNumber of players required to play : \n\t" + this.NoOfPlayers + " players");
+        System.out.println("\nTotal time duration for each game : \n\t" + this.TimeDuration + " minutes");
         if(this.SubGame)
         {
-            System.out.println("This sport has various models!");
+            System.out.println("\nThis sport has various models!");
         }
-        System.out.println("Legendry Players In This Game : ");
+        System.out.println("\nLegendry Players In This Game : ");
         for(int i=0;i<this.PlayersName.length;i++)
         {
-            System.out.println("\t\t" + (i+1) + ") " + this.PlayersName[i] + " from " + this.PlayersOrigin[i]);
+            System.out.println("\t" + (i+1) + ") " + this.PlayersName[i] + " from " + this.PlayersOrigin[i]);
         }
         if(this.PlayerStatus)
         {
-            System.out.println("Above legends are still playing the game!");
+            System.out.println("\nAbove legends are still playing the game!");
         }
         else
         {
-            System.out.println("Above legends have made history and retired.");
+            System.out.println("\nAbove legends have made history and retired.");
         }
         System.out.println("==========================================================");
     }
