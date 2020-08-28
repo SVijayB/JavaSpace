@@ -14,7 +14,6 @@ Take help from different keywords like super, this etc.
 
 package Miscellaneous;
 
-import java.sql.Time;
 import java.util.Scanner;
 
 public class Main 
@@ -86,8 +85,71 @@ public class Main
             String origin = "India";
             String equipments[] = {"Chess board", "Chess coins"};
             String players[] = {"Magnus Carlsen", "Viswanathan Anand"};
-            String playerNames[] = {"Norway", "India"};
-            Sports sport = new Sports(name, origin, equipments, players, playerNames, 2, 2, false, true);
+            String playerCountry[] = {"Norway", "India"};
+            Sports sport = new Sports(name, origin, equipments, players, playerCountry, 2, 120, false, true);
+            return sport;
+        }
+        else if(name == "Table Tennis")
+        {
+            String origin = "England";
+            String equipments[] = {"Racquets", "Table", "Balls"};
+            String players[] = {"Jan-Ove Waldner", "Ma Long", "Timo Boll"};
+            String playerCountry[] = {"Swedan", "China", "Germany"};
+            Sports sport = new Sports(name, origin, equipments, players, playerCountry, 2, 10, false, true);
+            return sport;
+        }
+        else if(name == "Carrom")
+        {
+            String origin = "India";
+            String equipments[] = {"Carrom board", "Carrom Coins", "Striker"};
+            String players[] = {"Maria Irudayam"};
+            String playerCountry[] = {"India"};
+            Sports sport = new Sports(name, origin, equipments, players, playerCountry, 2, 25, false, false);
+            return sport;
+        }
+        else if(name == "Snooker")
+        {
+            String origin = "India";
+            String equipments[] = {"Snooker Table", "Balls", "Cue"};
+            String players[] = {"Ronnie O'Sullivan", "Stephen Hendry"};
+            String playerCountry[] = {"England", "Scotland"};
+            Sports sport = new Sports(name, origin, equipments, players, playerCountry, 2, 2, false, false);
+            return sport;
+        }
+        else if(name == "Football")
+        {
+            String origin = "Britain";
+            String equipments[] = {"Football"};
+            String players[] = {"Lionel messi", "Cristiano Ronaldo"};
+            String playerCountry[] = {"Argentina", "Portugal"};
+            Sports sport = new Sports(name, origin, equipments, players, playerCountry, 11, 45, true, true);
+            return sport;
+        }
+        else if(name == "Basket Ball")
+        {
+            String origin = "Massachusetts";
+            String equipments[] = {"Basket Ball"};
+            String players[] = {"LeBron James", "Michael Jordan", "Kobe Bryant"};
+            String playerCountry[] = {"United States", "United States", "United States"};
+            Sports sport = new Sports(name, origin, equipments, players, playerCountry, 5, 12, false, false);
+            return sport;
+        }
+        else if(name == "Cricket")
+        {
+            String origin = "England";
+            String equipments[] = {"Cricket ball", "Cricket bat", "Wickets"};
+            String players[] = {"Mahendra Singh Dhoni", "Virat Kohli"};
+            String playerCountry[] = {"India", "India"};
+            Sports sport = new Sports(name, origin, equipments, players, playerCountry, 11, 240, true, true);
+            return sport;
+        }
+        else if(name == "Tennis")
+        {
+            String origin = "India";
+            String equipments[] = {"Racquets", "Tennis ball"};
+            String players[] = {"Roger Federer", "Rafael Nadal"};
+            String playerCountry[] = {"Switzerland", "Spain"};
+            Sports sport = new Sports(name, origin, equipments, players, playerCountry, 2, 300, false, true);
             return sport;
         }
 		return null;
@@ -116,16 +178,16 @@ class Sports
 
     public void Display() 
     {
-        System.out.println("==========================================================");
+        System.out.println("\n\n==========================================================");
         System.out.println("Name of the game : " + this.Name);
         System.out.println("Country of origin : " + this.Origin);
         System.out.println("Equipments required : ");
         for(int i=0;i<this.Equipments.length;i++)
         {
-            System.out.println("\t" + (i+1) + ")" + this.Equipments[i]);
+            System.out.println("\t" + (i+1) + ") " + this.Equipments[i]);
         }
         System.out.println("Number of players required to play : " + this.NoOfPlayers + " players");
-        System.out.println("Total time duration of each game : " + this.TimeDuration + " hours");
+        System.out.println("Total time duration for each game : " + this.TimeDuration + " minutes");
         if(this.SubGame)
         {
             System.out.println("This sport has various models!");
@@ -133,7 +195,15 @@ class Sports
         System.out.println("Legendry Players In This Game : ");
         for(int i=0;i<this.PlayersName.length;i++)
         {
-            System.out.println("\t\t" + (i+1) + ")" + this.PlayersName[i] + " from " + this.PlayersOrigin[i]);
+            System.out.println("\t\t" + (i+1) + ") " + this.PlayersName[i] + " from " + this.PlayersOrigin[i]);
+        }
+        if(this.PlayerStatus)
+        {
+            System.out.println("Above legends are still playing the game!");
+        }
+        else
+        {
+            System.out.println("Above legends have made history and retired.");
         }
         System.out.println("==========================================================");
     }
