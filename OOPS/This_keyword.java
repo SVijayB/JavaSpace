@@ -23,6 +23,7 @@ public class This_keyword
     {
         String title = "Playing with C"; //local variable
         System.out.println(this.title);
+        System.out.println(title);
     }
 }
 
