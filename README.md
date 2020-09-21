@@ -18,6 +18,7 @@
 - [Data Structures](#Data-Structures)
 - [Searching And Sorting Algorithms](#Searching-And-Sorting-Algorithms)
 - [OOPS](#OOPS)
+- [Exception Handling](#Exception-Handling)
 - [Miscellaneous](#Miscellaneous)
 - [HackerRank](#HackerRank)
 - [Contributing](#Contributing)
@@ -102,6 +103,18 @@ Implementing Object Oriented Programming System(OOPs) in Java.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Encapsulation/Encapsulation.java">Encapsulation.java</a>            | Encapsulation of data.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Encapsulation/Accessing.java">Accessing.java</a>                | Accessing private variables using public methods.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/AbstractClass.java">AbstractClass.java</a>            | Understanding abstract classes.
+</pre>
+
+## Exception Handling
+Handling various exceptions using the try, catch, finally and throw keywords in Java.
+<pre>
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Try_and_catch.java">Try_and_catch.java</a>            | Using the try and catch keywords.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Try_and_finally.java">Try_and_finally.java</a>          | Replacing try, catch and finally keywords.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Multicatch_block.java">Multicatch_block.java</a>         | Implementing multiple catch blocks.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Nested_try1.java">Nested_try1.java</a>              | Example - 1 for nested try blocks.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Nested_try2.java">Nested_try2.java</a>              | Example - 2 for nested try blocks.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Throw.java">Throw.java</a>                    | Using the throw keyword.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Throw2.java">Throw2.java</a>                   | Execution of lines after the throw keyword.
 </pre>
 
 ---
