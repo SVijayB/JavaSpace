@@ -10,12 +10,20 @@ class reverse
 		System.out.println("Enter a Number or String to be reversed: ");
 		String n = sc.nextLine();
 		l = n.length();
-		char a[] = new char [l];
-		for(i=0;i<l;i++)
-		{
-			a[i] = n.charAt(i);
+		char a[] = n.toCharArray();
+		int left=0;
+		int right=a.length-1;
+		
+		
+		while(left<right){
+		char temp=a[left];
+			a[left]=a[right];
+			a[right]=temp;
+			left++;
+			right--;
+		
 		}
-		for(i=l-1;i>=0;i--)
+		for(i=0;i<l;i++)
 		{
 			System.out.print(a[i]);
 		}
