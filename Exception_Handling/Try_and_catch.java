@@ -1,19 +1,31 @@
-package Exception_Handling;
+package Exceptions;
 
-public class Try_and_catch 
-{
-    public static void main(String args[])
-    {
-        int[] myNumbers = {1, 2, 3};
-        try
-        {
-            System.out.println(myNumbers[11]); // error!
-        }
-        catch(Exception e)
-        {
-            System.out.println("Don't worry! Remaining portion of the code will be executed...");
-            System.out.println("The type of runtime error is:"+e);
-        }
-        System.out.println("Line executed after exception handling");
+import java.util.*;
+
+public class Question1 {
+    public static void main(String[] args) {
+        // Create a Scanner
+        Scanner input = new Scanner(System.in);
+        boolean continueInput = true;
+
+        // Prompt the user to enter two integers
+        System.out.print("Enter two numbers: ");
+        do {
+            try {
+                int number1 = input.nextInt();
+                int number2 = input.nextInt();
+
+                // Display the result
+                System.out.println(
+                        "The sum is " + (number1 + number2));
+
+                continueInput = false;
+            }
+            catch (InputMismatchException ex) {
+                System.out.println("Try again. (" +
+                        "Incorrect input: two integers are required) ");
+                input.nextLine(); // Discard input
+            }
+        } while (continueInput);
     }
 }
