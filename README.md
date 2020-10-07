@@ -174,6 +174,7 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/BirthdayChocolate.java">BirthdayChocolate.java</a>        | <a href="https://www.hackerrank.com/challenges/the-birthday-bar/problem">Problem Statement</a>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/DivSumPair.java">DivSumPair.java</a>               | <a href="https://www.hackerrank.com/challenges/divisible-sum-pairs/problem">Problem Statement</a>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/MigratoryBirds.java">MigratoryBirds.java</a>           | <a href="https://www.hackerrank.com/challenges/migratory-birds/problem">Problem Statement</a>
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/InorderTraversal.java">InorderTraversal.java</a>         | <a href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem">Problem Statement</a>
 </pre>
 
 ---
