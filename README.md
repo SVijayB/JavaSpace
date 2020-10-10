@@ -47,6 +47,7 @@ Basics of Java are covered within these programs.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/sorting.java">Sorting.java</a>                  | Sorting N numbers.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/squares.java">Squares.java</a>                  | Print squares until N'th turn.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/tables.java">Tables.java</a>                   | Print Multiplication table.
+ < a href="https://github.com/SVijayB/JavaSpace/commit/b5c371a9ceeb2795d98eb315afb79459f785b9fb">factorial.java</a>| find factorial of a number
 </pre>
 
 ---
