@@ -1,6 +1,6 @@
 package Data_Structures;
 
-public class Huffman {
+class Huffman {
 
     // alphabet size of extended ASCII
     private static final int R = 256;

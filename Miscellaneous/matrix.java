@@ -1,6 +1,6 @@
 package Miscellaneous;
 
-public class JavaExample {
+class JavaExample {
     public static void main(String[] args) {
         int rows = 2, columns = 4;
 
