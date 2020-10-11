@@ -24,5 +24,6 @@ class Question1 {
                 input.nextLine(); // Discard input
             }
         } while (continueInput);
+        input.close();
     }
 }

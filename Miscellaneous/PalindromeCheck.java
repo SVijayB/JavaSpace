@@ -9,7 +9,7 @@ class ChkPalindrome {
 
       System.out.println("Enter a string:");
       str = sc.nextLine();
-
+      sc.close();
       int length = str.length();
 
       for (int i = length - 1; i >= 0; i--)
@@ -19,6 +19,5 @@ class ChkPalindrome {
          System.out.println(str + " is a palindrome");
       else
          System.out.println(str + " is not a palindrome");
-
    }
 }

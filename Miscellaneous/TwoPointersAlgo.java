@@ -47,8 +47,8 @@ class TwoPointersAlgo {
             // taking array input
             int k = in.nextInt(); // the total of the pair entered by the user
             twoSum(a, k);
-
         }
+        in.close();
     }// end of main
 }// end of class
 
