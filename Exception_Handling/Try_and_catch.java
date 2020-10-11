@@ -1,4 +1,4 @@
-package Exceptions;
+package Exception_Handling;
 
 import java.util.*;
 
@@ -16,14 +16,11 @@ public class Question1 {
                 int number2 = input.nextInt();
 
                 // Display the result
-                System.out.println(
-                        "The sum is " + (number1 + number2));
+                System.out.println("The sum is " + (number1 + number2));
 
                 continueInput = false;
-            }
-            catch (InputMismatchException ex) {
-                System.out.println("Try again. (" +
-                        "Incorrect input: two integers are required) ");
+            } catch (InputMismatchException ex) {
+                System.out.println("Try again. (" + "Incorrect input: two integers are required) ");
                 input.nextLine(); // Discard input
             }
         } while (continueInput);
