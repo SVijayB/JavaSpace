@@ -1,4 +1,4 @@
-# JavaSpace
+# JavaSpace file
 
 <p align="center">
     <a href="https://github.com/SVijayB/JavaSpace"><img src="assets/Java_logo_icon.png" alt="Logo" border="0"></a>
