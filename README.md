@@ -48,6 +48,7 @@ Basics of Java are covered within these programs.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/squares.java">Squares.java</a>                  | Print squares until N'th turn.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/tables.java">Tables.java</a>                   | Print Multiplication table.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/factorail.java">Factorial.java</a>                | To find Factorial of a number
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/Fibonacci.java">Fibonacci.java</a>                | To find Fibonacci series up to a given number.
 </pre>
 
 ---
