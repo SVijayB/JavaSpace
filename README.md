@@ -76,6 +76,9 @@ Programs Relating to the implementation of various Data Structures are present i
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Structures/stackpr1.java">Stackpr1.java</a>                 | Stack Implementation.
 • <a href="https://github.com/SVijayB/Java/blob/master/Data_Structures/Kruskal%E2%80%99s%20algorithm.java">Kruskal's algorithm.java</a>      | Kruskal's algorithm to find shortest path.
 • <a href="https://github.com/SVijayB/Java/blob/master/Data_Structures/Linear%20Probing.java">Linear Probing.java</a>           | Creating a Hash Table using Linear Probing method.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Structures/Huffman_Coding.java">Huffman_Coding.java</a>           | Implementation of Huffman coding in java.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Structures/InorderTraversal.java">InorderTraversal.java</a>         | Inorder traversal in java.
+
 </pre>
 
 ---
@@ -87,7 +90,7 @@ Programs used for searching and sorting given elements.
 • <a href="https://github.com/SVijayB/Java/blob/master/Searching%20%26%20Sorting/Linear%20Search.java">Linear Search.java</a>            | Linear Searching Algorithm.
 • <a href="https://github.com/SVijayB/Java/blob/master/Searching%20%26%20Sorting/Heap%20Sort.java">Heap Sort.java</a>                | Sorting entires using Heap Sort.
 • <a href="https://github.com/SVijayB/Java/blob/master/Searching%20%26%20Sorting/Merge%20Sort.java">Merge Sort.java</a>               | Sorting using Merge Sort.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/BubbleSort.java">Bubble Sort.java</a>               | Sorting using Bubble Sort.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/BubbleSort.java">Bubble Sort.java</a>              | Sorting using Bubble Sort.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/QuickSort.java">QuickSort.java</a>                | Quick Sort.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/Selection%20Sort.java">Selection Sort.java</a>           | Selection Sort.
 
@@ -150,6 +153,7 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/UrlConcat.java">UrlConcat.java</a>                | Program to create a link tag for HTML and saving output to clipboard.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/TagContentExtractor.java">TagContentExtractor.java</a>      | Obtaining string between html tags.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/SportsCatalogue.java">SportsCatalogue.java</a>          | Creating a sports catalogue with OOPS.
+
 </pre>
 
 ---
