@@ -153,7 +153,10 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/UrlConcat.java">UrlConcat.java</a>                | Program to create a link tag for HTML and saving output to clipboard.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/TagContentExtractor.java">TagContentExtractor.java</a>      | Obtaining string between html tags.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/SportsCatalogue.java">SportsCatalogue.java</a>          | Creating a sports catalogue with OOPS.
-
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/InterchangeAndAdd.java">InterchangeAndAdd.java</a>        | Interchange matrices and add them.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/PalindromeCheck.java">PalindromeCheck.java</a>          | Checks if given string is a palindrome.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/TwoPointersAlgo.java">TwoPointersAlgo.java</a>          | Searches for pairs in a sorted array.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/matrix.java">matrix.java</a>                   | Finding the sum of two matrices.
 </pre>
 
 ---
