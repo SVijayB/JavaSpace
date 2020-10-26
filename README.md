@@ -47,7 +47,9 @@ Basics of Java are covered within these programs.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/sorting.java">Sorting.java</a>                  | Sorting N numbers.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/squares.java">Squares.java</a>                  | Print squares until N'th turn.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/tables.java">Tables.java</a>                   | Print Multiplication table.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/factorail.java">Factorial.java</a>                | To find Factorial of a number
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/factorail.java">Factorial.java</a>                | To find Factorial of a number.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/strong number.java">Strong number.java</a>            | Check for Strong number.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/Fibonacci.java">Fibonacci.java</a>                | To find Fibonacci series up to a given number.
 </pre>
 
 ---
@@ -75,6 +77,9 @@ Programs Relating to the implementation of various Data Structures are present i
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Structures/stackpr1.java">Stackpr1.java</a>                 | Stack Implementation.
 • <a href="https://github.com/SVijayB/Java/blob/master/Data_Structures/Kruskal%E2%80%99s%20algorithm.java">Kruskal's algorithm.java</a>      | Kruskal's algorithm to find shortest path.
 • <a href="https://github.com/SVijayB/Java/blob/master/Data_Structures/Linear%20Probing.java">Linear Probing.java</a>           | Creating a Hash Table using Linear Probing method.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Structures/Huffman_Coding.java">Huffman_Coding.java</a>           | Implementation of Huffman coding in java.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Structures/InorderTraversal.java">InorderTraversal.java</a>         | Inorder traversal in java.
+
 </pre>
 
 ---
@@ -86,7 +91,10 @@ Programs used for searching and sorting given elements.
 • <a href="https://github.com/SVijayB/Java/blob/master/Searching%20%26%20Sorting/Linear%20Search.java">Linear Search.java</a>            | Linear Searching Algorithm.
 • <a href="https://github.com/SVijayB/Java/blob/master/Searching%20%26%20Sorting/Heap%20Sort.java">Heap Sort.java</a>                | Sorting entires using Heap Sort.
 • <a href="https://github.com/SVijayB/Java/blob/master/Searching%20%26%20Sorting/Merge%20Sort.java">Merge Sort.java</a>               | Sorting using Merge Sort.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/BubbleSort.java">Bubble Sort.java</a>               | Sorting using Bubble Sort.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/BubbleSort.java">Bubble Sort.java</a>              | Sorting using Bubble Sort.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/QuickSort.java">QuickSort.java</a>                | Quick Sort.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/Selection%20Sort.java">Selection Sort.java</a>           | Selection Sort.
+
 </pre>
 
 ---
@@ -147,6 +155,10 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/TagContentExtractor.java">TagContentExtractor.java</a>      | Obtaining string between html tags.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/SportsCatalogue.java">SportsCatalogue.java</a>          | Creating a sports catalogue with OOPS.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/DutchNationalFlagAlgo.java">DutchNationalFlagAlgo.java</a>    | Algorithm to sort 0's 1's and 2's in a array
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/InterchangeAndAdd.java">InterchangeAndAdd.java</a>        | Interchange matrices and add them.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/PalindromeCheck.java">PalindromeCheck.java</a>          | Checks if given string is a palindrome.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/TwoPointersAlgo.java">TwoPointersAlgo.java</a>          | Searches for pairs in a sorted array.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/matrix.java">matrix.java</a>                   | Finding the sum of two matrices.
 </pre>
 
 ---
