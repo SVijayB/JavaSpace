@@ -146,7 +146,7 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/UrlConcat.java">UrlConcat.java</a>                | Program to create a link tag for HTML and saving output to clipboard.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/TagContentExtractor.java">TagContentExtractor.java</a>      | Obtaining string between html tags.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/SportsCatalogue.java">SportsCatalogue.java</a>          | Creating a sports catalogue with OOPS.
-• <a href="https://github.com/ShreyonSinha/JavaSpace/blob/master/Miscellaneous/DutchNationalFlagAlgo.java">DutchNationalFlagAlgo.java   | Algorithm to sort 0's 1's and 2's in a array
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/DutchNationalFlagAlgo.java">DutchNationalFlagAlgo.java</a>    | Algorithm to sort 0's 1's and 2's in a array
 </pre>
 
 ---
