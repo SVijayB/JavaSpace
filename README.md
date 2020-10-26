@@ -62,6 +62,7 @@ Contains programs that revolve around various Number Systems.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Conversion/binary.java">Binary.java</a>                   | Check if Binary or not.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Conversion/decitobinary.java">DeciToBinary.java</a>             | Decimal to Binary.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Conversion/decitooctal.java">DeciToOctal.java</a>              | Decimal to Octal.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Conversion/DeciToHexa.java">DeciToHexa.java </a>              | Decimal to Hexa
 </pre>
 
 ---
@@ -189,6 +190,10 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/DivSumPair.java">DivSumPair.java</a>               | <a href="https://www.hackerrank.com/challenges/divisible-sum-pairs/problem">Problem Statement</a>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/MigratoryBirds.java">MigratoryBirds.java</a>           | <a href="https://www.hackerrank.com/challenges/migratory-birds/problem">Problem Statement</a>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/InorderTraversal.java">InorderTraversal.java</a>         | <a href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem">Problem Statement</a>
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/Magic%20Square.java">Magic Square.java</a>             | <a href="https://www.hackerrank.com/challenges/magic-square-forming/problem">Problem Statement</a>
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/Electronics%20Shop.java">Electronics Shop.java</a>         | <a href="https://www.hackerrank.com/challenges/electronics-shop/problem">Problem Statement</a>
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/Drawing%20Book.java">Drawing Book.java</a>             | <a href="https://www.hackerrank.com/challenges/drawing-book/problem">Problem Statement</a>
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/Day%20of%20the%20Programmer.java">Day of the programmer.java</a>    | <a href="https://www.hackerrank.com/challenges/day-of-the-programmer/problem">Problem Statement</a>
 </pre>
 
 ---
