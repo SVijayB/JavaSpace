@@ -88,6 +88,8 @@ Programs used for searching and sorting given elements.
 • <a href="https://github.com/SVijayB/Java/blob/master/Searching%20%26%20Sorting/Merge%20Sort.java">Merge Sort.java</a>               | Sorting using Merge Sort.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/BubbleSort.java">Bubble Sort.java</a>               | Sorting using Bubble Sort.
 </pre>
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/InsertionSort.java">Insertion Sort.java</a>               | Sorting using Insertion Sort.
+</pre>
 
 ---
 
