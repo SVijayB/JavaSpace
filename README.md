@@ -95,9 +95,7 @@ Programs used for searching and sorting given elements.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/BubbleSort.java">Bubble Sort.java</a>              | Sorting using Bubble Sort.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/QuickSort.java">QuickSort.java</a>                | Quick Sort.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/Selection%20Sort.java">Selection Sort.java</a>           | Selection Sort.
-
-</pre>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/InsertionSort.java">Insertion Sort.java</a>               | Sorting using Insertion Sort.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Searching%20%26%20Sorting/InsertionSort.java">Insertion Sort.java</a>           | Insertion Sort.
 </pre>
 
 ---
