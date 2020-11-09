@@ -1,5 +1,5 @@
 //Tree: Inorder Traversal
-package HackerRank;
+package Data_Structures;
 
 import java.util.*;
 import java.io.*;

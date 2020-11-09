@@ -1,6 +1,8 @@
+package Miscellaneous;
+
 import java.util.Scanner;
 
-public class count_zero_and_one {
+public class DutchNationalFlagAlgo {
 //    Algo to sort 0's 1's and 2's
     public static void sort(int a[],int a_size)
     {

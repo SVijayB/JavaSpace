@@ -1,4 +1,4 @@
-package OOPS;
+package Miscellaneous;
 
 /* This program accepts two nxn matrix and interchanges the first row of the first matrix with the last row of second matrix
  * and first row of second matrix with the last row of the first matrix.
@@ -6,12 +6,12 @@ package OOPS;
 
 import java.io.*;
 
-public class INTERCHANGE_ADD {
+public class InterchangeAndAdd {
     int arr[][];// instance variables
     int n, m;
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-    public INTERCHANGE_ADD(int mm, int nn)// parametrized constructor to initialize instance variables
+    public InterchangeAndAdd(int mm, int nn)// parametrized constructor to initialize instance variables
     {
         n = nn;
         m = mm;
@@ -28,7 +28,7 @@ public class INTERCHANGE_ADD {
         } // end of accept()
     }
 
-    public INTERCHANGE_ADD mix(INTERCHANGE_ADD J) {
+    public InterchangeAndAdd mix(InterchangeAndAdd J) {
 
         int A[] = new int[n];
         int B[] = new int[n];
@@ -38,7 +38,7 @@ public class INTERCHANGE_ADD {
         // I have treated the J object's matrix as the first matrix and the currently
         // referenced object's matrix as the second one
 
-        INTERCHANGE_ADD Q = new INTERCHANGE_ADD(m, n);
+        InterchangeAndAdd Q = new InterchangeAndAdd(m, n);
 
         int i, j, a = 0, b = 0, c = 0, d = 0;
         // first storing the elements to be modified in different arrays
@@ -114,10 +114,10 @@ public class INTERCHANGE_ADD {
         int p = Integer.parseInt(br.readLine());
         System.out.println("ENTER COLOUMN OF THE ARRAYS ");
         int q = Integer.parseInt(br.readLine());
-        INTERCHANGE_ADD obj1 = new INTERCHANGE_ADD(p, q);
+        InterchangeAndAdd obj1 = new InterchangeAndAdd(p, q);
         obj1.accept();// accepting elements of first array
 
-        INTERCHANGE_ADD obj2 = new INTERCHANGE_ADD(p, q);
+        InterchangeAndAdd obj2 = new InterchangeAndAdd(p, q);
         obj2.accept();// accepting elements of second array
 
         System.out.println("\nDISPLAYING THE ARRAYS BEFORE OPERATION\n");
@@ -127,9 +127,9 @@ public class INTERCHANGE_ADD {
         System.out.println("The 2nd Array is : ");
         obj2.display();// To display second array
 
-        INTERCHANGE_ADD obj3 = obj2.mix(obj1); /*
-                                                * obj2 is the current object which is referred by 'this' keyword above
-                                                **/
+        InterchangeAndAdd obj3 = obj2.mix(obj1); /*
+                                                  * obj2 is the current object which is referred by 'this' keyword above
+                                                  **/
 
         System.out.println("\nDISPLAYING THE ARRAYS AFTER OPERATION\n");
         System.out.println("The 1st Array is : ");

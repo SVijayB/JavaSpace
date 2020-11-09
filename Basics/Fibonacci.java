@@ -1,3 +1,5 @@
+package Basics;
+
 // Display Fibonacci series up to a given number
 public class Fibonacci 
 {

@@ -1,3 +1,5 @@
+package Miscellaneous;
+
 // Write a Java program to perform basic Calculator operations.
 import java.util.Scanner;
 class Calculator 
