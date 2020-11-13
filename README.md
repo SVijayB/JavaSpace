@@ -120,7 +120,8 @@ Implementing Object Oriented Programming System(OOPs) in Java.
 Various examples to help implement OOPS in Java.
 <pre>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/Holiday.java">Holiday.java</a>                  | Class Objects and Methods.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/Bookstore.java">Bookstore.java</a>                  | Static, final and Constructors
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/Bookstore.java">Bookstore.java</a>                  | Static, final and Constructors.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/SemesterMarks.java">SemesterMarks.java</a>                  | Understanding Inheritance.
 </pre>
 
 ## Exception Handling
