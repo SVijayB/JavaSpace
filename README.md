@@ -121,6 +121,7 @@ Various examples to help implement OOPS in Java.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/Holiday.java">Holiday.java</a>                  | Class Objects and Methods.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/Bookstore.java">Bookstore.java</a>                | Static, final and Constructors.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/SemesterMarks.java">SemesterMarks.java</a>            | Understanding Inheritance.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/Shape.java">Shape.java</a>                    | Example for Polymorphism.
 </pre>
 
 ## Exception Handling
