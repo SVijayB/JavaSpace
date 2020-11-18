@@ -1,6 +1,7 @@
 package Basics;
 import java.util.*;
-class fibonacci 
+
+class fibonacci2
 { 
     static int fib(int n) 
     { 
