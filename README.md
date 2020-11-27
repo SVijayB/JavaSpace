@@ -19,6 +19,7 @@
 - [Searching And Sorting Algorithms](#Searching-And-Sorting-Algorithms)
 - [OOPS](#OOPS)
 - [Exception Handling](#Exception-Handling)
+- [Threads](#threads)
 - [Miscellaneous](#Miscellaneous)
 - [HackerRank](#HackerRank)
 - [Contributing](#Contributing)
@@ -126,6 +127,8 @@ Various examples to help implement OOPS in Java.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/Distribution.java">Distribution.java</a>             | Parameterised constructor and exception handling.
 </pre>
 
+---
+
 ## Exception Handling
 Handling various exceptions using the try, catch, finally and throw keywords in Java.
 <pre>
@@ -136,6 +139,17 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Nested_try2.java">Nested_try2.java</a>              | Example - 2 for nested try blocks.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Throw.java">Throw.java</a>                    | Using the throw keyword.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Throw2.java">Throw2.java</a>                   | Execution of lines after the throw keyword.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Balance_addition.java">Balance_addition.java</a>         | Exception handling example.
+</pre>
+
+---
+
+## Threads
+
+<pre>
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Threads/threads.java">Threads.java</a>                  | Threads implementation in java.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Threads/multi_threads.java">multi_threads.java</a>            | Implementing multi-threads.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Threads/synchronization.java">synchronization.java</a>          | Synchronizing threads
 </pre>
 
 ---
