@@ -184,6 +184,7 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/PalindromeCheck.java">PalindromeCheck.java</a>          | Checks if given string is a palindrome.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/TwoPointersAlgo.java">TwoPointersAlgo.java</a>          | Searches for pairs in a sorted array.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/matrix.java">matrix.java</a>                   | Finding the sum of two matrices.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Miscellaneous/Pizza.java">Pizza.java</a>                    | GUI calculator to bill products.
 </pre>
 
 ---
