@@ -149,7 +149,9 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 <pre>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Threads/threads.java">Threads.java</a>                  | Threads implementation in java.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Threads/multi_threads.java">multi_threads.java</a>            | Implementing multi-threads.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Threads/synchronization.java">synchronization.java</a>          | Synchronizing threads
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Threads/synchronization.java">synchronization.java</a>          | Synchronizing threads.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Threads/Matrix.java">Matrix.java</a>                   | Finding the sum of matrix elements using threads.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Threads/Test1.java">Test1.java</a>                    | Test case example for multi-threads.
 </pre>
 
 ---
