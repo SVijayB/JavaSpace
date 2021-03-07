@@ -2,27 +2,37 @@ package Miscellaneous;
 
 import java.util.*;
 
-class Producer_Consumer {
+class Producer_Consumer 
+{
 	public static int ip = 1, in = 0, out = 3, p = 0;
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		int c;
 		System.out.print("1.producer\n2.consumer\n3.exit");
-		while(true) {
+		while(true) 
+		{
 			System.out.print("\nchoice :");
 			c = sc.nextInt();
-			switch(c) {
+			switch(c) 
+			{
 			case 1:
-				if(ip == 1 && out != 0) {
+				if(ip == 1 && out != 0) 
+				{
 					producer();
-				} else {
+				} 
+				else 
+				{
 					System.out.println("buffer full");
 				}
 				break;
 			case 2:
-				if(ip == 1 && in != 0) {
+				if(ip == 1 && in != 0) 
+				{
 					consumer();
-				} else {
+				} 
+				else 
+				{
 					System.out.println("buffer empty");
 				}
 				break;
@@ -33,15 +43,18 @@ class Producer_Consumer {
 		}
 	}
 
-	public static int cons(int s) {
+	public static int cons(int s) 
+	{
 		return --s;
 	}
 
-	public static int prod(int s) {
+	public static int prod(int s) 
+	{
 		return ++s;
 	}
 
-	public static void producer() {
+	public static void producer() 
+	{
 		ip = cons(ip);
 		in = prod(in);
 		out = cons(out);
@@ -50,7 +63,8 @@ class Producer_Consumer {
 		ip = prod(ip);
 	}
 
-	public static void consumer() {
+	public static void consumer() 
+	{
 		ip = cons(ip);
 		in = cons(in);
 		out = prod(out);
