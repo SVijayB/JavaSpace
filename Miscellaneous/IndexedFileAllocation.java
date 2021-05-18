@@ -1,7 +1,9 @@
+package Miscellaneous;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main 
+public class IndexedFileAllocation 
 {
     public static void main(String[] args) 
     {
