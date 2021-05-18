@@ -29,7 +29,7 @@ public class bestFitVsfirstFit {
         first_come(segment_values, processes_values, array_process_name);
         System.out.println("Best fit algorithm :");
         best_fit(segment_values, processes_values, array_process_name);
-
+        n.close();
     }
 
     public static void first_come(int segments[], int processes[], String array_process_name[]) 

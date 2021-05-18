@@ -5,7 +5,7 @@ class column extends Thread
 {
 	int n,arr[][],j;
 	List<Integer> l;
-	column(int n,int arr[][],int j,List l)
+	column(int n,int arr[][],int j,List<Integer> l)
 	{
 		this.n = n;
 		this.arr = arr;
@@ -28,7 +28,7 @@ class Sum extends Thread
 	int n;
 	List<Integer> l;
 	int sum = 0;
-	Sum(int n, List l)
+	Sum(int n, List<Integer> l)
 	{
 		this.n = n;
 		this.l = l;
@@ -73,5 +73,6 @@ public class Matrix
 		s.start();
 		s.join();
 		System.out.println("sum of matrix elements is " + s.sum);
+		sc.close();
 	}
 }

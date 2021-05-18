@@ -12,7 +12,8 @@ class average {
 		n = sc.nextInt();
 		int a[] = new int[n];
 		System.out.println("Enter the numbers for which average is to be found: ");
-		for (i = 0; i < n; i++) {
+		for (i = 0; i < n; i++) 
+		{
 			a[i] = sc.nextInt();
 			sum = sum + a[i];
 		}

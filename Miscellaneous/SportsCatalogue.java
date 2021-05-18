@@ -48,7 +48,6 @@ public class SportsCatalogue
                 }
             }
             System.out.println("INVALID CHOICE");
-            sc.close();
         }
         else if(First_choice == 2)
         {
@@ -57,7 +56,6 @@ public class SportsCatalogue
             System.out.println("\t1)Football \n\t2)Basket Ball \n\t3)Cricket \n\t4)Tennis");
             System.out.println("Select the outdoor game you want data for (1/2/3/4) : ");
             int Second_choice = (sc.nextInt() - 1);
-            sc.close();
             for(int i=0;i<4;i++)
             {
                 if(Second_choice == i)
@@ -67,13 +65,11 @@ public class SportsCatalogue
                 }
             }
             System.out.println("INVALID CHOICE");
-            sc.close();
         }
         else
         {
             System.out.println("ERROR : YOU HAVE ENTERED THE WRONG CHOICE.");
         }
-        sc.close();
         return GameOfChoice;
     }
 

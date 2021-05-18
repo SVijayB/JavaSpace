@@ -60,5 +60,6 @@ public class DutchNationalFlagAlgo {
         }
         sort(arr,a_length);
         printArray(arr,a_length);
+        sc.close();
     }
 }

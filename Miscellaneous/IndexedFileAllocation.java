@@ -66,6 +66,7 @@ public class IndexedFileAllocation
             }
             System.out.print("Do you wish to continue ? (Y/N) :");
             ans = sc.next().charAt(0);
+            sc.close();
         }
     }
 }

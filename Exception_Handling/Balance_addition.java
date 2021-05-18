@@ -51,5 +51,6 @@ public class Balance_addition
         {
             System.out.println(ex.getMessage());
         }
+        sc.close();
     }
 }

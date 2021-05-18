@@ -75,6 +75,7 @@ class Main
         Thread t1=new Thread(new Runnable(){public void run(){obj.prime(m);}}); 
         Thread t2=new Thread(new Runnable(){public void run(){obj.composite(m);}});  
         t1.start();  
-        t2.start();  
+        t2.start();
+        sc.close();
     }
 }

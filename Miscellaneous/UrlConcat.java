@@ -53,5 +53,6 @@ class UrlConcat
         StringSelection stringSelection = new StringSelection(para);
         Clipboard clipboard = Toolkit.getDefaultToolkit().getSystemClipboard();
         clipboard.setContents(stringSelection, null);
+        sc.close();
     }
 }

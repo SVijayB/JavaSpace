@@ -73,5 +73,6 @@ public class FCFS
             arrival_time[i] = y;
         }
         findavgTime(processes, n, burst_time, arrival_time);
+        sc.close();
     } 
 } 

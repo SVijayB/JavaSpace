@@ -76,6 +76,7 @@ public class RRScheduling
             burst_time[i] = x;  
         }
         int quantum = 2; 
-        findavgTime(processes, n, burst_time, quantum); 
+        findavgTime(processes, n, burst_time, quantum);
+        sc.close();
     }
 }    
