@@ -1,7 +1,6 @@
 package Miscellaneous;
 
 import java.util.*;
-import java.io.*;
 
 class TwoPointersAlgo {
     // This function prints all pairs in the array that sum to a number X. If no
