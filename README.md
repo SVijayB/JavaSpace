@@ -5,30 +5,31 @@
     <br>A collection of all the Java programs I've worked on so far.
 </p>
 
-
 ---
 
-<details>	
+<details>
 
 <summary>Table of contents</summary>
 
 ## Table of Contents
-- [Basics](#Basics)
-- [Data Conversion](#Data-Conversion)
-- [Data Structures](#Data-Structures)
-- [Searching And Sorting Algorithms](#Searching-And-Sorting-Algorithms)
-- [OOPS](#OOPS)
-- [Exception Handling](#Exception-Handling)
-- [Threads](#threads)
-- [Miscellaneous](#Miscellaneous)
-- [HackerRank](#HackerRank)
-- [Contributing](#Contributing)
-- [License](#License)
+
+-   [Basics](#Basics)
+-   [Data Conversion](#Data-Conversion)
+-   [Data Structures](#Data-Structures)
+-   [Searching And Sorting Algorithms](#Searching-And-Sorting-Algorithms)
+-   [OOPS](#OOPS)
+-   [Exception Handling](#Exception-Handling)
+-   [Threads](#threads)
+-   [Miscellaneous](#Miscellaneous)
+-   [Contributing](#Contributing)
+-   [License](#License)
 
 </details>
 
 ## Basics
+
 Basics of Java are covered within these programs.
+
 <pre>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/GP.java">GP.java</a>                       | Calculates Grade Pay.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/Pyramid.java">Pyramid.java</a>                  | Number Pyramid.
@@ -56,7 +57,9 @@ Basics of Java are covered within these programs.
 ---
 
 ## Data Conversion
+
 Contains programs that revolve around various Number Systems.
+
 <pre>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Conversion/BinaryCheck.java">BinaryCheck.java</a>              | Checks if number has even number 1's in it's binary format or not.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Conversion/Bintodecimal.java">Bintodecimal.java</a>             | Binary to Decimal.
@@ -69,7 +72,9 @@ Contains programs that revolve around various Number Systems.
 ---
 
 ## Data Structures
+
 Programs Relating to the implementation of various Data Structures are present in this folder.
+
 <pre>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Structures/Queue.java">Queue.java</a>                    | Queue Implementation.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Structures/BST.java">BST.java</a>                      | Binary Search Tree.
@@ -86,7 +91,9 @@ Programs Relating to the implementation of various Data Structures are present i
 ---
 
 ## Searching And Sorting Algorithms
+
 Programs used for searching and sorting given elements.
+
 <pre>
 • <a href="https://github.com/SVijayB/Java/blob/master/Searching%20%26%20Sorting/Binary%20Search.java">Binary Search.java</a>            | Iterative Binary Search.
 • <a href="https://github.com/SVijayB/Java/blob/master/Searching%20%26%20Sorting/Linear%20Search.java">Linear Search.java</a>            | Linear Searching Algorithm.
@@ -101,7 +108,9 @@ Programs used for searching and sorting given elements.
 ---
 
 ## OOPS
-Implementing Object Oriented Programming System(OOPs) in Java. 
+
+Implementing Object Oriented Programming System(OOPs) in Java.
+
 <pre>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Classes.java">Classes.java</a>                  | Understanding classes in java.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Initializing_objects.java">Initializing_objects.java</a>     | Creating/initializing data using reference variables.
@@ -117,7 +126,9 @@ Implementing Object Oriented Programming System(OOPs) in Java.
 </pre>
 
 ### Examples
+
 Various examples to help implement OOPS in Java.
+
 <pre>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/Holiday.java">Holiday.java</a>                  | Class Objects and Methods.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/Bookstore.java">Bookstore.java</a>                | Static, final and Constructors.
@@ -130,7 +141,9 @@ Various examples to help implement OOPS in Java.
 ---
 
 ## Exception Handling
+
 Handling various exceptions using the try, catch, finally and throw keywords in Java.
+
 <pre>
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Try_and_catch.java">Try_and_catch.java</a>            | Using the try and catch keywords.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Exception_Handling/Try_and_finally.java">Try_and_finally.java</a>          | Replacing try, catch and finally keywords.
@@ -191,41 +204,7 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 
 ---
 
-## HackerRank
-
-<p align="center">
-    <a href="https://www.hackerrank.com/SVijayB"><img src="assets/HackerRank Logo.PNG" alt="Logo" border="0"></a>
-    <br>Collection of questions from HackerRank
-</p>
-<pre>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/AppendAndDelete.java">AppendAndDelete.java</a>          | <a href="https://www.hackerrank.com/challenges/append-and-delete/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/ArrayFraction.java">ArrayFraction.java</a>            | <a href="https://www.hackerrank.com/challenges/plus-minus/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/BirthdayCandle.java">BirthdayCandle.java</a>           | <a href="https://www.hackerrank.com/challenges/birthday-cake-candles/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/DiagonalDifference.java">DiagonalDifference.java</a>       | <a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/GradingStudents.java">GradingStudents.java</a>          | <a href="https://www.hackerrank.com/challenges/grading/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/Lexicographical.java">Lexicographical.java</a>          | <a href="https://www.hackerrank.com/challenges/java-string-compare/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/MilitaryTime.java">MilitaryTime.java</a>             | <a href="https://www.hackerrank.com/challenges/time-conversion/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/MinAndMax.java">MinAndMax.java</a>                | <a href="https://www.hackerrank.com/challenges/mini-max-sum/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/StringReverse.java">StringReverse.java</a>            | <a href="https://www.hackerrank.com/challenges/java-string-reverse/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/Anagrams.java">Anagrams.java</a>                 | <a href="https://www.hackerrank.com/challenges/java-anagrams/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/StringTokens.java">StringTokens</a>                  | <a href="https://www.hackerrank.com/challenges/java-string-tokens/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/LongFactorials.java">LongFactorials.java</a>           | <a href="https://www.hackerrank.com/challenges/extra-long-factorials/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/ApplesAndOranges.java">ApplesAndOranges.java</a>         | <a href="https://www.hackerrank.com/challenges/apple-and-orange/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/Kangaroo.java">Kangaroo.java</a>                 | <a href="https://www.hackerrank.com/challenges/kangaroo/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/BreakingRecords.java">BreakingRecords.java</a>          | <a href="https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/BirthdayChocolate.java">BirthdayChocolate.java</a>        | <a href="https://www.hackerrank.com/challenges/the-birthday-bar/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/DivSumPair.java">DivSumPair.java</a>               | <a href="https://www.hackerrank.com/challenges/divisible-sum-pairs/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/MigratoryBirds.java">MigratoryBirds.java</a>           | <a href="https://www.hackerrank.com/challenges/migratory-birds/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/InorderTraversal.java">InorderTraversal.java</a>         | <a href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/Magic%20Square.java">Magic Square.java</a>             | <a href="https://www.hackerrank.com/challenges/magic-square-forming/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/Electronics%20Shop.java">Electronics Shop.java</a>         | <a href="https://www.hackerrank.com/challenges/electronics-shop/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/Drawing%20Book.java">Drawing Book.java</a>             | <a href="https://www.hackerrank.com/challenges/drawing-book/problem">Problem Statement</a>
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/HackerRank/Day%20of%20the%20Programmer.java">Day of the programmer.java</a>    | <a href="https://www.hackerrank.com/challenges/day-of-the-programmer/problem">Problem Statement</a>
-</pre>
-
----
-
-## Contributing 
+## Contributing
 
 To contribute to the program collection, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/SVijayB/JavaSpace/blob/master/.github/CONTRIBUTING.md) before sending us Pull requests.
 
