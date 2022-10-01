@@ -218,9 +218,9 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 
 To contribute to the program collection, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/SVijayB/JavaSpace/blob/master/.github/CONTRIBUTING.md) before sending us Pull requests.
 
-### Special thanks to all Contributors
+### Special thanks to all the contributors✨
 
-[![Contributors](https://contrib.rocks/image?repo=SVijayB/JavaSpace)](https://github.com/SVijayB/JavaSpace/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=SVijayB/JavaSpace)](https://github.com/SVijayB/JavaSpace/graphs/contributors) 
 
 ## License
 
