@@ -136,6 +136,7 @@ Various examples to help implement OOPS in Java.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/Shape.java">Shape.java</a>                    | Example for Polymorphism.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/GenericMethods.java">GenericMethods.java</a>           | Using generic classes and methods.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/Distribution.java">Distribution.java</a>             | Parameterised constructor and exception handling.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/OOPS/Examples/Shapes.java">Shapes.java</a>             | Example for Inheritance.
 </pre>
 
 ---
@@ -168,6 +169,7 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 </pre>
 
 ---
+
 
 ## Miscellaneous
 
