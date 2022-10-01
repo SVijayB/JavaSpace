@@ -5,6 +5,16 @@
     <br>A collection of all the Java programs I've worked on so far.
 </p>
 
+<div align="center">
+    
+![Issues](https://img.shields.io/github/issues/SVijayB/JavaSpace?color=brightgreen)
+![Pull requests](https://img.shields.io/github/issues-pr/SVijayB/JavaSpace?color=brigthgreen)
+![forks](https://img.shields.io/github/forks/SVijayB/JavaSpace)
+![stars](https://img.shields.io/github/stars/SVijayB/JavaSpace)
+![license](https://img.shields.io/github/license/SVijayB/JavaSpace?color=orange)
+
+</div>
+
 ---
 
 <details>
@@ -208,7 +218,11 @@ Handling various exceptions using the try, catch, finally and throw keywords in 
 
 To contribute to the program collection, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/SVijayB/JavaSpace/blob/master/.github/CONTRIBUTING.md) before sending us Pull requests.
 
-Also, thanks for contributing to Open-source!
+### Thanks to all Contributors
+
+Thanks a lot for spending your time helping JavaSpace.
+
+[![Contributors](https://contrib.rocks/image?repo=SVijayB/JavaSpace)](https://github.com/SVijayB/JavaSpace/graphs/contributors)
 
 ## License
 
