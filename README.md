@@ -62,6 +62,7 @@ Basics of Java are covered within these programs.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/factorail.java">Factorial.java</a>                | To find Factorial of a number.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/strong number.java">Strong number.java</a>            | Check for Strong number.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/Fibonacci.java">Fibonacci.java</a>                | To find Fibonacci series up to a given number.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Basics/FizzBuzz.java">FizzBuzz.java</a>                | The FizzBuzz problem is a classic test given in coding interviews.
 </pre>
 
 ---
