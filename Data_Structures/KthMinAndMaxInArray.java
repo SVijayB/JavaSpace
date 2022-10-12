@@ -3,12 +3,16 @@ import java.util.*;
 
 /* Problem Statement - To find the kth Smallest and kth Largest element in an array.
    Note: Duplicates are considered.
-   
  */
 
 class KthMinAndMaxInArray{
     static int kthSmallestElement(int[] array, int k){              // using max-heap
-        PriorityQueue<Integer> p = new PriorityQueue<>(Collections.reverseOrder());
+        /* A max-heap is a complete binary tree in which the value in each internal node is greater
+         than or equal to the values in the children of that node. Mapping the elements of a heap 
+         into an array is trivial: if a node is stored an index k, then its left child is stored at
+         index 2k + 1 and its right child at index 2k + 2. 
+         Note: In max-heap root is the greatest element of the array */
+        PriorityQueue<Integer> p = new PriorityQueue<>(Collections.reverseOrder()); // we use collections to convert min-heap to max-heap
         for(int i=0; i<k;i++){
             p.add(array[i]);
         }
@@ -21,7 +25,12 @@ class KthMinAndMaxInArray{
         return p.peek();
     }
     static int kthLargeestElement(int[] array, int k){              // using min-heap
-        PriorityQueue<Integer> p = new PriorityQueue<>();
+        /* A Min-Heap is a complete binary tree in which the value in each internal node
+         is smaller than or equal to the values in the children of that node. Mapping 
+         the elements of a heap into an array is trivial: if a node is stored an index k,
+         then its left child is stored at index 2k + 1 and its right child at index 2k + 2.
+         Note: In min-heap root is the smallest element in the array */
+        PriorityQueue<Integer> p = new PriorityQueue<>();   // a priority queue by default implements a min-heap in java
         for(int i=0; i<k;i++){
             p.add(array[i]);
         }
