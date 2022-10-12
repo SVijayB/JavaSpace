@@ -99,7 +99,7 @@ Programs Relating to the implementation of various Data Structures are present i
 • <a href="https://github.com/SVijayB/Java/blob/master/Data_Structures/Kruskal%E2%80%99s%20algorithm.java">Kruskal's algorithm.java</a>      | Kruskal's algorithm to find shortest path.
 • <a href="https://github.com/SVijayB/Java/blob/master/Data_Structures/Linear%20Probing.java">Linear Probing.java</a>           | Creating a Hash Table using Linear Probing method.
 • <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Structures/InorderTraversal.java">InorderTraversal.java</a>         | Inorder traversal in java.
-• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Structures/KthMinAndMaxInArray.java">KthMinAndMaxInArray.java</a>    | Finding Kth smallest and largest element in an array.
+• <a href="https://github.com/SVijayB/JavaSpace/blob/master/Data_Structures/KthMinAndMaxInArray.java">KthMinAndMaxInArray.java</a>      | Finding Kth smallest and largest element in an array.
 </pre>
 
 ---
