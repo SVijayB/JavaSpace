@@ -1,3 +1,11 @@
+/*
+M == Number of different colours;
+N ==  Number of vertices;
+E == Number of edges
+
+Time Complexity: O( M ^ N );
+*/
+
 import java.util.*;
 
 public class m_colouring_permutation {
